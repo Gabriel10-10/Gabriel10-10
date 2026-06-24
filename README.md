@@ -66,7 +66,7 @@ once with Azure Durable Functions (Python) and once with Logic Apps +
 Service Bus, producing a comparative analysis of both orchestration 
 approaches across reliability, cost, and developer experience.
 
-[View project →](https://github.com/Gabriel10-10/CST8917-FinalProject-DamisManfouo)
+[View project →](https://github.com/Gabriel10-10/Serverless-Expense-Orchestration)
 
 ---
 
