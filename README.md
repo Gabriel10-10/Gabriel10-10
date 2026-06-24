@@ -1,8 +1,13 @@
-# Gabriel Manfouo — Cloud & Data Engineer
+# Hello, I'm Gabriel 👋
 
-Specialized in building data pipelines and cloud-native infrastructure on Azure.
-Strong DevOps foundation, focused on data engineering.
-Bilingual 🇫🇷 🇨🇦 | Based in Ottawa, Canada
+Data has always fascinated me, not just the numbers,
+but what happens behind the scenes: how it flows, how it transforms,
+and how the right pipeline can turn raw information into real decisions.
+
+I started with Cloud & DevOps, and that foundation gave me something
+valuable. I know how to build systems that actually hold up.
+Now I'm channeling that into data engineering, where I want to spend
+the rest of my career.
 
 ---
 
@@ -47,7 +52,7 @@ with real-time safety status across all monitored locations.
 ### Cloud DevOps Pipeline: AKS + Terraform
 Designed and implemented a fully automated CI/CD pipeline provisioning 
 Azure Kubernetes Service infrastructure with Terraform and deploying a 
-containerized application through 5 GitHub Actions workflows — covering 
+containerized application through 5 GitHub Actions workflows, covering 
 static analysis, security scanning, linting, planning, and promotion 
 across test and production environments.
 
