@@ -49,14 +49,14 @@ with real-time safety status across all monitored locations.
 
 ---
 
-### Cloud DevOps Pipeline: AKS + Terraform
+### Cloud DevOps Pipeline: Weather App
 Designed and implemented a fully automated CI/CD pipeline provisioning 
 Azure Kubernetes Service infrastructure with Terraform and deploying a 
 containerized application through 5 GitHub Actions workflows, covering 
 static analysis, security scanning, linting, planning, and promotion 
 across test and production environments.
 
-[View project →](https://github.com/RamyMaarouf/cst8918-final-project-group-2)
+[View project →](https://github.com/Gabriel10-10/Weather-App)
 
 ---
 
