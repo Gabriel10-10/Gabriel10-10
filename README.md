@@ -19,6 +19,9 @@ I'm particularly interested in **Data Engineering, AI/ML, and MLOps**, and how t
 
 **Issued by:** Microsoft | **Earned:** October 2026
 
+<img width="905" height="335" alt="Capture d&#39;écran 2026-11-01 153208" src="https://github.com/user-attachments/assets/1c62ba3e-d912-4453-9343-bf350ef211ff" />
+
+
 [Verify Certification](https://learn.microsoft.com/api/credentials/share/en-us/DamisGabrielManfouo-1458/B1FBA9CFB9BC33EE?sharingId=162F645CB653EC96)
 
 ---
